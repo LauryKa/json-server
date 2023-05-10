@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "milk",
+      "price": 1.99,
+      "producer": "Žemaitijos pienas"
+    },
+    {
+      "id": 2,
+      "name": "Kefyras",
+      "price": 2.2,
+      "producer": "Žemaitijos pienas"
+    }
+  ]
+}
